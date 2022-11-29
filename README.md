@@ -3,15 +3,15 @@ Este repositorio contiene diez actividades de apoyo para el curso __ANÁLISIS Y 
 
 ## Índice:
 1. [Actividad 01](#actividad-01)
-2. [Actividad 01](#actividad-02)
-3. [Actividad 01](#actividad-03)
-4. [Actividad 01](#actividad-04)
-5. [Actividad 01](#actividad-05)
-6. [Actividad 01](#actividad-06)
-7. [Actividad 01](#actividad-07)
-8. [Actividad 01](#actividad-08)
-9. [Actividad 01](#actividad-09)
-10. [Actividad 01](#actividad-10)
+2. [Actividad 02](#actividad-02)
+3. [Actividad 03](#actividad-03)
+4. [Actividad 04](#actividad-04)
+5. [Actividad 05](#actividad-05)
+6. [Actividad 06](#actividad-06)
+7. [Actividad 07](#actividad-07)
+8. [Actividad 08](#actividad-08)
+9. [Actividad 09](#actividad-09)
+10. [Actividad 10](#actividad-10)
 
 ### Actividad 01
 
