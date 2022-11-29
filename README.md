@@ -25,7 +25,7 @@ Realizar un programa que imprima por el terminal la frase: `¡Hola Mundo!`, segu
 
 #### Solución:
 
-Solución Actividad 01.
+[Solución Actividad 01.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act01.java)
 
 ### Actividad 02
 
@@ -37,7 +37,7 @@ Vamos a utilizar un `String` para el nombre y otro para los apellidos, la edad l
 
 #### Solución:
 
-Solución Actividad 02.
+[Solución Actividad 02.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act02.java)
 
 ### Actividad 03
 
@@ -49,7 +49,7 @@ La nota deberíamos guardarla en una variable de tipo `double` porque puede tene
 
 #### Solución:
 
-Solución Actividad 03.
+[Solución Actividad 03.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act03.java)
 
 ### Actividad 04
 
@@ -61,7 +61,7 @@ Podemos pedir que el usuario introduzca el año actual o bien, obtenerlo del sis
 
 #### Solución:
 
-Solución Actividad 04.
+[Solución Actividad 04.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act04.java)
 
 ### Actividad 05
 
