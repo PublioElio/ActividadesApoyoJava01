@@ -73,7 +73,7 @@ Puedes buscar por Internet las formulas para cualcuar la circunferencia y el are
 
 #### Solución:
 
-Solución Actividad 05.
+[Solución Actividad 05.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act05.java)
 
 ### Actividad 06
 
@@ -85,7 +85,7 @@ Para saber si un número es par o impar el operador módulo (`%`) puede serte de
 
 #### Solución:
 
-Solución Actividad 06.
+[Solución Actividad 06.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act06.java)
 
 ### Actividad 07
 
@@ -97,7 +97,7 @@ Para realizar el ejercicio es necesario utilizar variables `boolean`, además de
 
 #### Solución:
 
-Solución Actividad 07.
+[Solución Actividad 07.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act07.java)
 
 ### Actividad 08
 
@@ -109,7 +109,7 @@ Esta actividad se puede completar con una sentencia `if-else` o el operador tern
 
 #### Solución:
 
-Solución Actividad 08.
+[Solución Actividad 08.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act08.java)
 
 ### Actividad 09
 
@@ -121,7 +121,7 @@ Puedes utilizar `Math.round(variable)`, pero no es la única solución posible.
 
 #### Solución:
 
-Solución Actividad 09.
+[Solución Actividad 09.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act09.java)
 
 ### Actividad 10
 
@@ -133,4 +133,4 @@ Es posible emplear una constante (escrita en mayúsculas) para establecer el sue
 
 #### Solución:
 
-Solución Actividad 10.
+[Solución Actividad 10.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act10.java)
