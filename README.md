@@ -110,3 +110,27 @@ Esta actividad se puede completar con una sentencia `if-else` o el operador tern
 #### Solución:
 
 Solución Actividad 08.
+
+### Actividad 09
+
+Realizar un programa que solicite un número decimal y lo muestra redondeado.
+
+#### Pistas:
+
+Puedes utilizar `Math.round(variable)`, pero no es la única solución posible.
+
+#### Solución:
+
+Solución Actividad 09.
+
+### Actividad 10
+
+Realizarun programa que calcule el salario de un empledo, introduciendo las horas que ha trabajado esa semana. El salario puede ser, por ejemplo, de 12 € la hora.
+
+#### Pistas:
+
+Es posible emplear una constante (escrita en mayúsculas) para establecer el sueldo euros/hora. En el programa podrías emplear `System.out.printf("valor de variable: %d", varible)`. Mediante `%d` dentro del `String` que quieres mostrar, puedes imprimir la variable que se envía como parámetro.
+
+#### Solución:
+
+Solución Actividad 10.
