@@ -57,7 +57,7 @@ Realizar un programa que pida un año de nacimiento y le muestra la edad actual 
 
 #### Pistas:
 
-Podemos pedir que el usuario introduzca el año actual o bien, obtenerlo del sistema con `Year.now().getValue()`.
+Podemos pedir que el usuario introduzca el año actual o bien, obtenerlo del sistema con `Year.now().getValue()`. El operador incremento (`++`) aumenta el uno el valor de una variable y es equivalente a esto: `variable = variable + 1`, pero nos ahorrará tiempo y código. Vamos a utilizar `if-else` y una variable `boolean` para determinar si la edad calculada se corresponde a la de un adulto.
 
 #### Solución:
 
