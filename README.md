@@ -63,4 +63,27 @@ Podemos pedir que el usuario introduzca el año actual o bien, obtenerlo del sis
 
 Solución Actividad 04.
 
+### Actividad 05
+
+Escribir un programa que solicite el radio de una circunferencia, luego que calculae la circunferencia y el área.
+
+#### Pistas:
+
+Puedes buscar por Internet las formulas para cualcuar la circunferencia y el area. Te resultarán de ayuda: `Math.PI` y `Math.pow(base, potencia)` para realizar los cáculos. Te recomiendo usar variables de tipo `double`.
+
+#### Solución:
+
+Solución Actividad 05.
+
+### Actividad 06
+
+Realizar un programa que solicite un número por consola y diga si es par o impar.
+
+#### Pistas:
+
+Para saber si un número es par o impar el operador módulo (`%`) puede serte de utilidad.
+
+#### Solución:
+
+Solución Actividad 06.
 
