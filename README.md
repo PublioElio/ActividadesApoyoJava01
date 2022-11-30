@@ -178,12 +178,16 @@ Como casi todo en programación, existen otras posibles soluciones.
 
 ### Actividad 10
 
-Realizarun programa que calcule el __salario__ de un empledo, introduciendo las __horas que ha trabajado esa semana__. El salario puede ser, por ejemplo, de 12 € la hora.
+Realizarun programa que calcule el __salario__ de un empledo, introduciendo las __horas que ha trabajado esa semana__. El salario/hora debería ser un __valor fijo__, por ejemplo, de 12 € la hora.
 
 #### Pistas:
 
-Es posible emplear una __constante__ (escrita en __mayúsculas__) para establecer el sueldo euros/hora. Al contrario que las variables, las constantes no ven modificado su valor a lo largo del programa. En el programa podrías emplear `System.out.printf("valor de variable: %d", varible)`. Mediante `%d` dentro del `String` que quieres mostrar, puedes imprimir la variable que se envía como parámetro.
+Es posible emplear una __constante__ (escrita en __mayúsculas__) para establecer el sueldo euros/hora. Al contrario que las variables, las constantes no ven modificado su valor a lo largo del programa. Si imprimes el resultado de la siguiente manera: 
+```
+System.out.printf("valor de variable: %d", varible)
+```
+Recuerda que, mediante `%d` dentro del `String` que quieres mostrar, puedes imprimir la variable que se envía como parámetro.
 
 #### Solución:
 
-[Solución Actividad 10.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act10.java)
+[Solución Actividad 10](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act10.java)
