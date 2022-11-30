@@ -188,7 +188,7 @@ Realizarun programa que calcule el __salario__ de un empledo, introduciendo las 
 
 Es posible emplear una __constante__ (escrita en __mayúsculas__) para establecer el sueldo euros/hora. Al contrario que las variables, las constantes no ven modificado su valor a lo largo del programa. Si imprimes el resultado de la siguiente manera: 
 ```
-System.out.printf("valor de variable: %d", varible)
+System.out.printf("valor de variable: %d", variable)
 ```
 Recuerda que, mediante `%d` dentro del `String` que quieres mostrar, puedes imprimir la variable que se envía como parámetro.
 
