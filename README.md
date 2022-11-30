@@ -54,7 +54,7 @@ Luego tendremos que crear un nuevo __objeto__ `Scanner` de la siguiente manera:
 ```
 Scanner teclado = new Scanner(System.in);
 ```
-Lo hemos llamado a esta variable `teclado`, pero puede ser cualquier nombre. Para guardar lo que el usuario introduce por la terminal, es necesario asignarlo a una variable, de la siguiente manera: 
+Lo hemos llamado a esta variable `teclado`, pero puede ser cualquier nombre. Para guardar lo que el usuario introduce por la terminal, es necesario __asignarlo a una variable__, de la siguiente manera: 
 ```
 variableEntero = nombreObjetoScanner.nextInt();
 ``` 
@@ -65,15 +65,19 @@ variableEntero = nombreObjetoScanner.nextInt();
 
 ### Actividad 03
 
-Realizar un programa que pida dos notas __ENTERAS__ introducidas por teclado y calcule la media aritmética, mostrándola por el terminal.
+Realizar un programa que pida dos notas __ENTERAS__ (tienen que guardarse en un `int`) introducidas por teclado y calcule __la media aritmética__, mostrándola por el terminal. Es importante tener en cuenta que el resultado de la media aritmética puede contener __decimales__.
 
 #### Pistas:
 
-La nota deberíamos guardarla en una variable de tipo `double` porque puede tener decimales. *Castear* una variable la convierte de un tipo a otro, podemos castear un `int` a double con `(double)` de la siguiente manera: `variableDecimal = (double) valorEntero`. Al castear de `double` a `int` perdemos la parte decimal.
+La nota deberíamos guardarla en una variable de tipo `double` porque puede tener decimales. *Castear* una variable la convierte de un tipo a otro, podemos castear un `int` a `double` con `(double)` de la siguiente manera: 
+```
+variableDecimal = (double) valorEntero;
+```
+Cuando realizamos un casteo, __es posible que se pierdan datos__, así que hay que tener mucho cuidado. Por ejemplo, al castear de `double` a `int` perdemos la parte decimal.
 
 #### Solución:
 
-[Solución Actividad 03.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act03.java)
+[Solución Actividad 03](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act03.java)
 
 ### Actividad 04
 
