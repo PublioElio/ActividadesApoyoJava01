@@ -119,39 +119,46 @@ Puedes utilizar la clase `Math` de Java. Te resultarán de ayuda los métodos: `
 
 ### Actividad 06
 
-Realizar un programa que solicite un número por consola y diga si es par o impar.
+Realizar un programa que solicite un número por consola y diga __si es par o impar__.
 
 #### Pistas:
 
-Para saber si un número es par o impar el operador módulo (`%`) puede serte de utilidad.
+Para saber si un número es par o impar __el operador módulo__ (`%`) puede serte de utilidad.
 
 #### Solución:
 
-[Solución Actividad 06.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act06.java)
+[Solución Actividad 06](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act06.java)
 
 ### Actividad 07
 
-REalizar un programa que pregunte al preguntas usuario si está lloviendo, si tiene tareas en casa y si tiene que ir a comprar. Si está lloviendo o tiene tareas pendientes, no podrá salir a la calle, pero si tiene que ir a comprar, siempre tendrá que salir de casa. El usuario tiene que responder como 'true' or 'false'. En función de sus respuestas el programa le confirma al usuario si puede o no salir a la calle
+Realizar un programa que realice una serie de preguntas usuario y luego le diga si puede o no salir a la calle. Algunas preguntas pueden ser: __si está lloviendo, si tiene tareas pendientes que hacer en casa y si tiene que ir a comprar.__ Si está lloviendo o tiene tareas pendientes, no podrá salir a la calle, pero si tiene que ir a comprar, siempre tendrá que salir de casa. El usuario ha de responder que responder 'true' o 'false'. En función de sus respuestas, el programa le confirma al usuario si puede o no salir a la calle.
 
 #### Pistas:
 
-Para realizar el ejercicio es necesario utilizar variables `boolean`, además de emplear los operadores de comparación en una sentencia `if-else`.
+Para realizar el ejercicio es necesario utilizar variables tipo `boolean`, además de emplear los operadores lógicos (`&&` y `||`) en una sentencia `if-else`.
 
 #### Solución:
 
-[Solución Actividad 07.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act07.java)
+[Solución Actividad 07](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act07.java)
 
 ### Actividad 08
 
-Realizar un programa que solicite un número por consola y muestre su valor absoluto. El valor absoluto de un número real cualquiera es el mismo número, pero con signo positivo.
+Realizar un programa que solicite un número por consola y __muestre su valor absoluto__. El valor absoluto de un número real cualquiera es el mismo número, pero con signo positivo.
 
 #### Pistas:
 
-Esta actividad se puede completar con una sentencia `if-else` o el operador ternario, que tiene esta estructura: `resultado = (condicion) ? valor1 : valor2`. También es posible emplear `Math.abs(variable)`. 
+Esta actividad se puede completar con una sentencia `if-else` o el __operador ternario__, que tiene esta estructura: 
+```
+resultado = (condicion) ? valor1 : valor2
+```
+También es posible emplear el siguiente método de la clase `Math` para obtener el valor absoluto de una variable: 
+```
+Math.abs(variable)
+``` 
 
 #### Solución:
 
-[Solución Actividad 08.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act08.java)
+[Solución Actividad 08](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act08.java)
 
 ### Actividad 09
 
