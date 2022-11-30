@@ -101,7 +101,7 @@ Es una forma de ahorrar tiempo y código. Vamos a utilizar una sentencia condici
 
 ### Actividad 05
 
-Escribir un programa que solicite el radio de una circunferencia, luego que calculae la circunferencia y el área.
+Escribir un programa que solicite el __radio__ de una circunferencia, luego que calcule la __circunferencia__ y el __área__.
 
 #### Pistas:
 
