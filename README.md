@@ -15,14 +15,18 @@ Este repositorio contiene diez actividades de apoyo para el curso __ANÁLISIS Y 
 
 ### Actividad 01
 
-Realizar un programa que __imprima_ por el terminal la frase: `¡Hola Mundo!`, seguida de _la versión de Java instalada en el equipo.__
+Realizar un programa que __imprima__ por el terminal la frase: `¡Hola Mundo!`, seguida de __la versión de Java instalada en el equipo.__
 
 #### Pistas:
 
-El método siguiente nos permitirá imprimir texto por el terminal. Después de mostrar el texto, imprimirá un __salto de línea__. No es necesario que tome ningún parámetro (los paréntesis pueden estar vacíos:
+El método siguiente nos permitirá imprimir texto por el terminal. Después de mostrar el texto, imprimirá un __salto de línea__. No es necesario que tome ningún parámetro (es decir, que los paréntesis pueden estar vacíos):
+
 ```System.out.println()```
-El siguiente método imprime por pantalla una cadena de caracteres sin salto de línea, tenemos que pasar una cadena de caracteres obligatoriamente. 
+
+El siguiente método imprime por pantalla una cadena de caracteres sin salto de línea, tenemos que pasar una cadena de caracteres obligatoriamente:
+
 ```System.out.print("cadena de caracteres")```
+
 Con el siguiente método podemos mostrar texto con parámetros formateados (lo veremos más adelante).
 ```System.out.printf("A continuación, miprimimos el valor de la variable 'numero': %d", numero);```
 El siguiente método nos permite mostrar la versión de JDK instalada en el equipo:
