@@ -3,7 +3,7 @@
 </div>
 
 # Actividades de Apoyo Java (01)
-Este repositorio contiene diez actividades de apoyo para el curso __ANÁLISIS Y PROGRAMACIÓN EN JAVA (IFCD004PO)__. Están concebidas para practicar los conceptos básicos de las primeras unidades del temario. __Se recomienda haber leído el temario en su totalidad y haber hecho las autoevaluaciones antes de realizar estas actividades.__
+Este repositorio contiene diez actividades de apoyo para el curso __ANÁLISIS Y PROGRAMACIÓN EN JAVA (IFCD004PO)__. Están ideadas para practicar los conceptos básicos de las primeras unidades del temario. __Se recomienda haber leído el temario en su totalidad y haber hecho las autoevaluaciones antes de realizar estas actividades.__
 
 ## Índice:
 1. [Actividad 01](#actividad-01)
