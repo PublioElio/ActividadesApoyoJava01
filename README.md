@@ -107,15 +107,15 @@ __C = 2π * r__
 
 La fórmula para calcular el área es:
 
-__A = π *<sup>2</sup>__
+__A = π * r<sup>2</sup>__
 
 #### Pistas:
 
-Puedes buscar por Internet las formulas para cualcuar la circunferencia y el area. Te resultarán de ayuda: `Math.PI` y `Math.pow(base, potencia)` para realizar los cáculos. Te recomiendo usar variables de tipo `double`.
+Puedes utilizar la clase `Math` de Java. Te resultarán de ayuda los métodos: `Math.PI` y `Math.pow(base, potencia)` para realizar los cáculos. Te recomiendo usar variables de tipo `double`, porque los resultados serán números reales.
 
 #### Solución:
 
-[Solución Actividad 05.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act05.java)
+[Solución Actividad 05](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act05.java)
 
 ### Actividad 06
 
