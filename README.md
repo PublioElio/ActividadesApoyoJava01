@@ -101,7 +101,13 @@ Es una forma de ahorrar tiempo y código. Vamos a utilizar una sentencia condici
 
 ### Actividad 05
 
-Escribir un programa que solicite el __radio__ de una circunferencia, luego que calcule la __circunferencia__ y el __área__.
+Escribir un programa que solicite el __radio__ de una circunferencia, luego que calcule la __circunferencia__ y el __área__. La fórmula de la circunferencia es:
+
+__C = 2π * r__
+
+La fórmula para calcular el área es:
+
+__A = π *<sup>2</sup>__
 
 #### Pistas:
 
