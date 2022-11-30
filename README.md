@@ -81,15 +81,23 @@ Cuando realizamos un casteo, __es posible que se pierdan datos__, así que hay q
 
 ### Actividad 04
 
-Realizar un programa que pida un año de nacimiento y le muestra la edad actual al usuario, la edad que tendrá el año que viene y además de confirma si es adulto o no.
+Realizar un programa que pida un __año de nacimiento__, mostrando la edad actual al usuario. Después mostrará la edad que tendrá __el año que viene__ y además, el programa confirmará __si es adulto o no__.
 
 #### Pistas:
 
-Podemos pedir que el usuario introduzca el año actual o bien, obtenerlo del sistema con `Year.now().getValue()`. El operador incremento (`++`) aumenta el uno el valor de una variable y es equivalente a esto: `variable = variable + 1`, pero nos ahorrará tiempo y código. Vamos a utilizar `if-else` y una variable `boolean` para determinar si la edad calculada se corresponde a la de un adulto.
+Podemos pedir que el usuario introduzca el año actual para calcular la edad, pero también podemos obtenerlo del sistema con: 
+```
+Year.now().getValue()
+```
+El operador incremento (`++`) aumenta el uno el valor de una variable y es equivalente a esto: 
+```
+variable = variable + 1;
+``` 
+Es una forma de ahorrar tiempo y código. Vamos a utilizar una sentencia condicional `if-else` y una variable `boolean` para determinar si la edad calculada se corresponde a la de un adulto.
 
 #### Solución:
 
-[Solución Actividad 04.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act04.java)
+[Solución Actividad 04](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act04.java)
 
 ### Actividad 05
 
