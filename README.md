@@ -38,19 +38,30 @@ System.getProperty("java.version")
 
 #### Solución:
 
-[Solución Actividad 01.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act01.java)
+[Solución Actividad 01](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act01.java)
 
 ### Actividad 02
 
-Realizar un programa que solicite que se introduzca la edad, nombre y apellidos por el terminal y después lo muestre.
+Realizar un programa que solicite que se __introduzca la edad, nombre y apellidos__ por la terminal y después __lo muestre__.
 
 #### Pistas:
 
-Vamos a utilizar un `String` para el nombre y otro para los apellidos, la edad la guardaremos en un `int`. Para solicitar datos por el terminal, usaremos la clase `Scanner`, que habrá que importarla al principio del programa con `import java.util.Scanner;`. Luego tendremos que crear un nuevo objeto `Scanner` de la siguiente manera: `Scanner teclado = new Scanner(System.in);`. Lo hemos llamado `teclado`, pero puede ser cualquier nombre. Para guardar lo que el usuario introduce por el teclado, es necesario asignarlo a una variable, de la siguiente manera: `variableEntero = nombreObjetoScanner.nextInt();`. 
+Vamos a utilizar un `String` para el nombre y otro para los apellidos, la edad la guardaremos en una variable de tipo entero `int`. Para solicitar datos por el terminal, usaremos __la clase__ `Scanner`, que habrá que importarla al principio del programa con la siguiente línea de código:
+```
+import java.util.Scanner;
+```
+Luego tendremos que crear un nuevo __objeto__ `Scanner` de la siguiente manera: 
+```
+Scanner teclado = new Scanner(System.in);
+```
+Lo hemos llamado a esta variable `teclado`, pero puede ser cualquier nombre. Para guardar lo que el usuario introduce por la terminal, es necesario asignarlo a una variable, de la siguiente manera: 
+```
+variableEntero = nombreObjetoScanner.nextInt();
+``` 
 
 #### Solución:
 
-[Solución Actividad 02.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act02.java)
+[Solución Actividad 02](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act02.java)
 
 ### Actividad 03
 
