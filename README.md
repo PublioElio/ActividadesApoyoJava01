@@ -162,23 +162,27 @@ Math.abs(variable)
 
 ### Actividad 09
 
-Realizar un programa que solicite un número decimal y lo muestra redondeado.
+Realizar un programa que solicite __un número decimal__ y lo muestre __redondeado__.
 
 #### Pistas:
 
-Puedes utilizar `Math.round(variable)`, pero no es la única solución posible.
+Puedes utilizar de nuevo el siguiente método de la clase `Math`: 
+```
+Math.round(variable)
+``` 
+Como casi todo en programación, existen otras posibles soluciones.
 
 #### Solución:
 
-[Solución Actividad 09.](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act09.java)
+[Solución Actividad 09](https://github.com/PublioElio/ActividadesApoyoJava01/blob/main/Act09.java)
 
 ### Actividad 10
 
-Realizarun programa que calcule el salario de un empledo, introduciendo las horas que ha trabajado esa semana. El salario puede ser, por ejemplo, de 12 € la hora.
+Realizarun programa que calcule el __salario__ de un empledo, introduciendo las __horas que ha trabajado esa semana__. El salario puede ser, por ejemplo, de 12 € la hora.
 
 #### Pistas:
 
-Es posible emplear una constante (escrita en mayúsculas) para establecer el sueldo euros/hora. En el programa podrías emplear `System.out.printf("valor de variable: %d", varible)`. Mediante `%d` dentro del `String` que quieres mostrar, puedes imprimir la variable que se envía como parámetro.
+Es posible emplear una __constante__ (escrita en __mayúsculas__) para establecer el sueldo euros/hora. Al contrario que las variables, las constantes no ven modificado su valor a lo largo del programa. En el programa podrías emplear `System.out.printf("valor de variable: %d", varible)`. Mediante `%d` dentro del `String` que quieres mostrar, puedes imprimir la variable que se envía como parámetro.
 
 #### Solución:
 
