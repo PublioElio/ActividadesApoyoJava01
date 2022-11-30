@@ -20,17 +20,21 @@ Realizar un programa que __imprima__ por el terminal la frase: `¡Hola Mundo!`, 
 #### Pistas:
 
 El método siguiente nos permitirá imprimir texto por el terminal. Después de mostrar el texto, imprimirá un __salto de línea__. No es necesario que tome ningún parámetro (es decir, que los paréntesis pueden estar vacíos):
-
-```System.out.println()```
-
-El siguiente método imprime por pantalla una cadena de caracteres sin salto de línea, tenemos que pasar una cadena de caracteres obligatoriamente:
-
-```System.out.print("cadena de caracteres")```
-
+```
+System.out.println()
+```
+El siguiente método imprime por pantalla una cadena de caracteres sin salto de línea, tenemos que pasar una __cadena de caracteres obligatoriamente entre comillas dobles__:
+```
+System.out.print("cadena de caracteres")
+```
 Con el siguiente método podemos mostrar texto con parámetros formateados (lo veremos más adelante).
-```System.out.printf("A continuación, miprimimos el valor de la variable 'numero': %d", numero);```
-El siguiente método nos permite mostrar la versión de JDK instalada en el equipo:
-```System.getProperty("java.version")```
+```
+System.out.printf("A continuación, miprimimos el valor de la variable 'numero': %d", numero);
+```
+El siguiente método nos permite mostrar la versión de __JDK__ instalada en el equipo:
+```
+System.getProperty("java.version")
+```
 
 #### Solución:
 
