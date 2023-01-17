@@ -33,7 +33,7 @@ System.out.print("cadena de caracteres")
 ```
 Con el siguiente método podemos mostrar texto con parámetros formateados (lo veremos más adelante).
 ```
-System.out.printf("A continuación, miprimimos el valor de la variable 'numero': %d", numero);
+System.out.printf("A continuación, imprimimos el valor de la variable 'numero': %d", numero);
 ```
 El siguiente método nos permite mostrar la versión de __JDK__ instalada en el equipo:
 ```
